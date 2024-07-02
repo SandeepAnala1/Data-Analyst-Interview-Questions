@@ -28,6 +28,9 @@ A JOIN clause is used to combine rows from two or more tables based on a related
   INNER JOIN departments b
   ON a.department_id = b.id;
   ```
+  ![image](https://i.postimg.cc/LsrVc8WF/inner-join.gif)
+
+  
 - **LEFT JOIN (or LEFT OUTER JOIN)**: Returns all records from the left table and matched records from the right table. Returns NULL for unmatched records from the right table.
   ```sql
   SELECT a.first_name, b.department
@@ -35,6 +38,8 @@ A JOIN clause is used to combine rows from two or more tables based on a related
   LEFT JOIN departments b
   ON a.department_id = b.id;
   ```
+  ![image](https://i.postimg.cc/T2nkXnG7/left-join.gif)
+  
 - **RIGHT JOIN (or RIGHT OUTER JOIN)**: Returns all records from the right table and matched records from the left table. Returns NULL for unmatched records from the left table.
   ```sql
   SELECT a.first_name, b.department
@@ -42,6 +47,8 @@ A JOIN clause is used to combine rows from two or more tables based on a related
   RIGHT JOIN departments b
   ON a.department_id = b.id;
   ```
+  ![image](https://i.postimg.cc/VLHVkmr5/right-join.gif)
+  
 - **FULL JOIN (or FULL OUTER JOIN)**: Returns all records when there is a match in either left or right table. Returns NULL for unmatched records on either side.
   ```sql
   SELECT a.first_name, b.department
@@ -49,6 +56,7 @@ A JOIN clause is used to combine rows from two or more tables based on a related
   FULL JOIN departments b
   ON a.department_id = b.id;
   ```
+  ![image](https://i.postimg.cc/Bnz5Fv4P/full-join.gif)
 
 ### 5) How do you use the GROUP BY clause in SQL? Provide an example.
 The `GROUP BY` clause is used to group rows that have the same values in specified columns into summary rows.
