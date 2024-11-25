@@ -8,7 +8,7 @@ These questions are framed by Grow Data Skills and answers are from ChatGPT.
 ## Table of Contents  
 
 ### SQL Topics  
-1. [Day 1: Basic SQL]([./Day1_Basic_SQL](https://github.com/SandeepAnala1/Data-Analyst-Interview-Questions/blob/main/Day%20001/Day_1_Basic_SQL.md))  
+1. [Day 1: Basic SQL](https://github.com/SandeepAnala1/Data-Analyst-Interview-Questions/blob/main/Day%20001/Day_1_Basic_SQL.md)  
 2. [Day 2: Intermediate SQL](./Day2_Intermediate_SQL)  
 3. [Day 3: Advanced SQL](./Day3_Advanced_SQL)  
 4. [Day 4: Advanced SQL_Final 15](./Day4_Advanced_SQL_Final15)  
