@@ -234,3 +234,6 @@ FROM employees;
 - **Regularly update statistics** on database tables.
 
 These basic concepts and practices provide a solid foundation for working with SQL and handling database operations effectively.
+
+### SQL twitter thread
+https://x.com/sandeepASSN/status/1860665804251095502
