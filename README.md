@@ -11,7 +11,7 @@ These questions are framed by Grow Data Skills and answers are from ChatGPT.
 1. [Day 1: Basic SQL](https://github.com/SandeepAnala1/Data-Analyst-Interview-Questions/blob/main/Day%20001/Day_1_Basic_SQL.md)  
 2. [Day 2: Intermediate SQL](https://github.com/SandeepAnala1/Data-Analyst-Interview-Questions/blob/main/Day%20002/Day_2_Intermediate.md)  
 3. [Day 3: Advanced SQL](https://github.com/SandeepAnala1/Data-Analyst-Interview-Questions/blob/main/Day%20003/Advance-SQL.md)  
-4. [Day 4: Advanced SQL_Final 15]((https://github.com/SandeepAnala1/Data-Analyst-Interview-Questions/blob/main/Day%20004/Final%2015.md))  
+4. [Day 4: Advanced SQL_Final 15](https://github.com/SandeepAnala1/Data-Analyst-Interview-Questions/blob/main/Day%20004/Final%2015.md)
 
 ### Business Intelligence (BI) Topics  
 5. [Day 5: Excel](https://github.com/SandeepAnala1/Data-Analyst-Interview-Questions/blob/main/Day%20005/Excel.md)  
@@ -22,7 +22,7 @@ These questions are framed by Grow Data Skills and answers are from ChatGPT.
 10. [Day 10: Power BI somemore](https://github.com/SandeepAnala1/Data-Analyst-Interview-Questions/blob/main/Day%20010/PowerBI.md)  
 
 ### Python Topics  
-11. [Day 11: Basic Python](https://github.com/SandeepAnala1/Data-Analyst-Interview-Questions/blob/main/Day%20011/Basic%20Python.md)) 
+11. [Day 11: Basic Python](https://github.com/SandeepAnala1/Data-Analyst-Interview-Questions/blob/main/Day%20011/Basic%20Python.md)
 12. [Day 12: Exploratory Data Analysis (EDA) with Python](https://github.com/SandeepAnala1/Data-Analyst-Interview-Questions/blob/main/Day%20012/EDA-Python.md)  
 
 ### Data Modeling and Projects  
