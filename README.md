@@ -9,26 +9,26 @@ These questions are framed by Grow Data Skills and answers are from ChatGPT.
 
 ### SQL Topics  
 1. [Day 1: Basic SQL](https://github.com/SandeepAnala1/Data-Analyst-Interview-Questions/blob/main/Day%20001/Day_1_Basic_SQL.md)  
-2. [Day 2: Intermediate SQL](./Day2_Intermediate_SQL)  
-3. [Day 3: Advanced SQL](./Day3_Advanced_SQL)  
-4. [Day 4: Advanced SQL_Final 15](./Day4_Advanced_SQL_Final15)  
+2. [Day 2: Intermediate SQL](https://github.com/SandeepAnala1/Data-Analyst-Interview-Questions/blob/main/Day%20002/Day_2_Intermediate.md)  
+3. [Day 3: Advanced SQL](https://github.com/SandeepAnala1/Data-Analyst-Interview-Questions/blob/main/Day%20003/Advance-SQL.md)  
+4. [Day 4: Advanced SQL_Final 15]((https://github.com/SandeepAnala1/Data-Analyst-Interview-Questions/blob/main/Day%20004/Final%2015.md))  
 
 ### Business Intelligence (BI) Topics  
-5. [Day 5: Excel](./Day5_Excel)  
-6. [Day 6: Business Statistics](./Day6_Business_Statistics)  
-7. [Day 7: Basic Power BI](./Day7_Basic_PowerBI)  
-8. [Day 8: Advanced Power BI](./Day8_Advanced_PowerBI)  
-9. [Day 9: Scenario-Based BI](./Day9_Scenario_Based_BI)  
-10. [Day 10: Advanced Power BI Scenario-Based](./Day10_Adv_PowerBI_Scenario_Based)  
+5. [Day 5: Excel](https://github.com/SandeepAnala1/Data-Analyst-Interview-Questions/blob/main/Day%20005/Excel.md)  
+6. [Day 6: Business Statistics](https://github.com/SandeepAnala1/Data-Analyst-Interview-Questions/blob/main/Day%20006/Business%20Statistics.md)  
+7. [Day 7: Basic Power BI](https://github.com/SandeepAnala1/Data-Analyst-Interview-Questions/blob/main/Day%20007/Basic%20PowerBI.md)  
+8. [Day 8: Advanced Power BI](https://github.com/SandeepAnala1/Data-Analyst-Interview-Questions/blob/main/Day%20008/Advanced%20PoweBI.md)  
+9. [Day 9: Scenario-Based BI](https://github.com/SandeepAnala1/Data-Analyst-Interview-Questions/blob/main/Day%20009/Scenario%20based.md)  
+10. [Day 10: Power BI somemore](https://github.com/SandeepAnala1/Data-Analyst-Interview-Questions/blob/main/Day%20010/PowerBI.md)  
 
 ### Python Topics  
-11. [Day 11: Basic Python](./Day11_Basic_Python)  
-12. [Day 12: Exploratory Data Analysis (EDA) with Python](./Day12_EDA_Python)  
+11. [Day 11: Basic Python](https://github.com/SandeepAnala1/Data-Analyst-Interview-Questions/blob/main/Day%20011/Basic%20Python.md)) 
+12. [Day 12: Exploratory Data Analysis (EDA) with Python](https://github.com/SandeepAnala1/Data-Analyst-Interview-Questions/blob/main/Day%20012/EDA-Python.md)  
 
 ### Data Modeling and Projects  
-13. [Day 13: Data Modeling](./Day13_DataModeling)  
-14. [Day 14: Scenario-Based Power BI](./Day14_Scenario_Based_PowerBI)  
-15. [Day 15: Project Ideas](./Day15_Project_Ideas)  
+13. [Day 13: Data Modeling](https://github.com/SandeepAnala1/Data-Analyst-Interview-Questions/blob/main/Day%20013/DataModelling.md)  
+14. [Day 14: Scenario-Based Power BI](https://github.com/SandeepAnala1/Data-Analyst-Interview-Questions/blob/main/Day%20014/ScenariobasedPowerBI.md)  
+15. [Day 15: Project Ideas](https://github.com/SandeepAnala1/Data-Analyst-Interview-Questions/blob/main/Day%20015/Project%20Ideas.md)  
 
 ## How to Use This Repository  
 1. **Follow the Schedule:** Each folder corresponds to a day's topic. It’s recommended to go through the topics in order.  
